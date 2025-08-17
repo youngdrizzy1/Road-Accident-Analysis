@@ -68,47 +68,32 @@ Maximum by type: Cars. What role do vehicle volumes versus safety features play?
   
 <img width="321" height="313" alt="Screenshot (493)1" src="https://github.com/user-attachments/assets/1421daef-e994-4a65-a1f9-37b5e721fa27" />
 
-#### 5.  Shipping Type and Delivery Efficiency
-- Standard Shipping: Most used but problematic due to high delays and cancellations.
-- Same-Day Shipping: Least likely to be late, but has a very minimal overall contribution.
-- First and Second-Class Shipping: Perform relatively equally but need improvement in on-time deliveries.
+#### 5.  Road Type and Surface Distribution
+- Road Types: Single carriageway (196,600, 76.85%), Dual (32,400, 12.66%), Roundabout (17,200, 6.72%).
+- Surfaces: Dry (181,484, 70.91%), Wet (64,567, 25.23%), Ice/Snow (9,813, 3.83%).
+- Notice correlations: Most on dry, single carriageways. How might weather interact with infrastructure?
 
-  ![Shipping-Delivery](https://github.com/user-attachments/assets/c89e64ba-8b89-4878-a6e0-767b163a1d32)
+  <img width="240" height="108" alt="Screenshot (492)1" src="https://github.com/user-attachments/assets/1cc427ce-948c-4942-83c3-92416a77864e" />
+  <img width="257" height="178" alt="Screenshot (491)1" src="https://github.com/user-attachments/assets/c9165707-b29a-4400-86ea-637aa4a30e9a" />
 
-#### 6. Customer Segmentation and Revenue Contribution
-
-##### Revenue Contributions by Segment:
-- Consumers: 51.75%, driven by strong individual demand.
-- Corporate: 30.32%, sustained by business partnerships.
-- Home Office: 17.94%, with room for growth.
-  
-  ![Customer Segment](https://github.com/user-attachments/assets/f0fe2738-4183-4d3a-af76-ebac5a329311)
-
-##### Top Five Products by Segment:
-- Consumers: Staples, Staple Envelope, and Easy-Staple Paper rule the segment.
-- Corporate: More practical needs, such as Staples and Staple Envelope.
-- Home Office: Lower demand but relies on versatile products like Easy-Staple Paper.
-
-  ![Segment-Product](https://github.com/user-attachments/assets/7f225bd7-5fbe-45c9-907f-661791e7665c)
-
-#### Product Category Contributions:
-- Consumers and Corporate favor Office Supplies, while Home Office lags in Furniture and Technology demand.
-
-  ![Segment-Category](https://github.com/user-attachments/assets/6858a163-e8d5-4164-b79b-e107ebbb83fe)
+#### 6. Location Focus
+- All visualized data filtered to urban areas (255,864). Why prioritize urban? Higher density amplifies risks.
 
 ### Recommendations
-- Focus on high yielding seasons and diversification of products.
-- Improve loyalty programs and personal marketing in order to retain customers.
-- Strengthen regional sales by improving logistics and targeting underperforming areas.
-- Minimize late deliveries and cancellations; provide reliable shipping options.
-- Drive growth in Corporate and Home Office segments with appropriate solutions.
-- Apply data analytics to inventory optimization and targeting of campaigns.
+Based on patterns, consider:
+- Target car safety campaigns, as they dominate casualties. What tech like auto-braking could help?
+- Boost awareness for daylight driving risks, perhaps via apps alerting to high-traffic times.
+- Improve single carriageway infrastructure (e.g., better lighting on wet surfaces) to address 76.85% of incidents.
+- Use monthly trends for seasonal alerts, focusing on winter peaks.
+- Expand analysis to rural data for comprehensive views.
 
 ### Strategic Goals
-- Improve delivery reliability to boost customer satisfaction.
-- Drive segment and regional growth for balanced performance.
-- Enhance the overall customer experience to build loyalty and trust.
+- Empower stakeholders (governments, insurers) with data for targeted interventions.
+- Reduce overall casualties by 10-20% through evidence-based policies.
+- Promote data literacy in road safety to build community-driven changes.
+- Foster ongoing analysis for long-term trends, like post-2022 updates.
 
 ### Dashboard
+The interactive Excel dashboard summarizes all insights with filters for customization.
 
-  ![Dashboard](https://github.com/user-attachments/assets/4f464b33-b264-461f-b209-9a7f16cf277e)
+<img width="1008" height="498" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/1f22f9ec-1c68-4e1c-a908-424241db75cb" />
