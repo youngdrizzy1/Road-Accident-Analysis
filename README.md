@@ -21,16 +21,22 @@ This project analyzes road accident data from the UK (STATS19 dataset) for 2021 
 ### Workflow
 The process followed a structured approach to ensure accuracy and insightfulness.
 #### 1. Data Cleaning:
-
+- Highlighted the entire table and added filters to each column.
+- Ensured no blanks in the Accident Index column.
+- Corrected inconsistencies, such as replacing 'Fetal' with 'Fatal' in the Accident Severity column using Find and Replace (CTRL + F).
     
-#### 2.	Data Loading:
-- Imported the cleaned dataset into Power BI.
-- Verified the data integrity after loading and applied necessary transformations.
+#### 2.	Data Processing
+- Extracted months from the Accident Date column for trend analysis.
+- Extracted years similarly.
+- Grouped categories for deeper analysis:
+  - Light conditions: Into 'Daylight' and 'Darkness'.
+  - Road surface conditions: Into 'Dry', 'Wet', and 'Ice/Snow'.
+  - Vehicle types: Into 'Agricultural Vehicle', 'Bike', 'Bus', 'Car', 'Van', and 'Other'. This grouping simplified patterns: Why might these aggregations reveal hidden correlations, like darkness linking to wet surfaces?
   
-#### 3.	Analysis and Visualization:
-- Created measures and calculated columns in Power BI to support analysis.
-- Visualized trends and patterns using line charts, bar charts, pie chart etc.
-- Dashboard
+#### 3.	Data Analysis & Visualization:
+- Created pivot tables for KPIs (e.g., total casualties) and insights (e.g., severity percentages).
+- Built charts like pie charts for severity, bar charts for road types, and line graphs for monthly trends.
+- Combined analysis with visualization to spot relationships, such as higher casualties on single carriageways during daylight.
 
 ### Insights
 
