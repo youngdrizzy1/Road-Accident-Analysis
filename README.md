@@ -55,28 +55,18 @@ Maximum by type: Cars. What role do vehicle volumes versus safety features play?
 
 <img width="255" height="174" alt="Screenshot (486) 1" src="https://github.com/user-attachments/assets/e6d5f229-3d84-4990-8d7a-43617f6b4bfb" />
 
-#### 3.  Geographical Sales and Regional Performance
-- Top-Selling Regions: The West led the way with $8.08M in sales, followed by the East at $7.19M, Central at $5.87M, and the South at $4.10M.
-- Performance Drivers: Variations in regional sales performance were due to order volume and not because of order value.
+#### 3.  Monthly Trends (2021 vs. 2022)
+- 2021 Total: 134,613 (higher peaks in Nov-Dec).
+- 2022 Total: 121,251 (general decline).
+- Why the drop? Post-COVID travel changes or improved safety measures?
 
-  ![regions](https://github.com/user-attachments/assets/c35f74a5-5fc5-474b-b8c1-d5d09b4c275f)
+  <img width="399" height="230" alt="Screenshot (490) 1" src="https://github.com/user-attachments/assets/c350d0f7-f095-4ca1-9d37-5a00b4264ec9" />
 
-#### 4. Delivery Performance and Impact on Sales
-- Late Deliveries: 52.13% prevail in all regions, and the highest late delivery sales come from the West, with $4.23M, possibly affecting customer satisfaction.
+#### 4. Light Conditions and Time of Day
+- Daylight: 186,161 (72.75%), Darkness: 69,703 (27.25%).
+- Does higher daylight volume reflect more traffic, or overlooked risks like distractions?
   
-- On-Time Deliveries (19.26%): The West led with $1.58M in on-time sales, highlighting room for improvement to boost reliability and trust.
-  
-- Advance Shipping (24.20%): Early deliveries in the West ($1.93M) likely enhanced satisfaction and encouraged repeat purchases.
-  
-- Shipping Cancellations (4.40%): The East and West had the highest canceled sales, risking customer trust and loyalty.
-
-  - The delivery status impact on sales
-
-    ![delivery performance](https://github.com/user-attachments/assets/c5476f3d-e6b4-46a1-909a-7de047e12958)
-
-  - The delivery status impact on sales in different regions
-    
-    ![regional delivery performance](https://github.com/user-attachments/assets/0463b025-1d5e-4f2a-9b13-7b61b7a3234a)
+<img width="321" height="313" alt="Screenshot (493)1" src="https://github.com/user-attachments/assets/1421daef-e994-4a65-a1f9-37b5e721fa27" />
 
 #### 5.  Shipping Type and Delivery Efficiency
 - Standard Shipping: Most used but problematic due to high delays and cancellations.
