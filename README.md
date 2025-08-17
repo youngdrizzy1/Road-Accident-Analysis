@@ -43,27 +43,17 @@ The analysis revealed compelling patterns. Let's explore them with questions to 
 #### 1. Overall Casualties and Severity
 - Total: 255,864.
 - Breakdown: Fatal (2,319, 0.91%), Serious (30,433, 11.89%), Slight (223,112, 87.20%).
+  
 Why might slight injuries dominate? Could early interventions in minor accidents prevent escalation?
   
   <img width="117" height="41" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/b0816b27-ee42-44b7-93b9-460ac4f6ffe1" />
 
--  Annual Trends: Sales started off significantly, from $405K in 2015 to a peak of $11.63M in 2021.
+#### 2. Casualties by Vehicle Type
+- Cars: 203,357 (79.5%), Bikes: 21,218 (8.3%), Vans: 20,416 (8.0%), Buses: 7,444 (2.9%), Agricultural: 598 (0.2%), Others: 2,831 (1.1%).
 
-  ![annually](https://github.com/user-attachments/assets/010119b1-c0ab-40b8-8080-f7ac50a5b64d)
+Maximum by type: Cars. What role do vehicle volumes versus safety features play?
 
--  Seasonal Trends: Fall took the leading place with $6.49M, followed by Summer with $6.35M, Spring at $6.27M, and then Winter at $6.12M.
-
-  ![seasonal](https://github.com/user-attachments/assets/66f66083-0fe0-4a75-92ed-69e6529e3764)
-
--  Top Product Categories: Office Supplies, accounting for 60.14% of the revenue ($15.17M), followed by Furniture at 21.63% ($5.46M), and Technology at 18.23% ($4.60M).
-  
-  ![top performing product categories](https://github.com/user-attachments/assets/55d5a837-d01d-42d0-bf0b-0a1a44222214)
-
-#### 2. Customer Retention and Loyalty Performance
-- Retention Rate: 73.22% of the orders were from returning customers, which is indicative of high loyalty.
-- Repeat Buyers: 62.76% of the customers had more than one order, showing a very loyal customer base.
-  
-  ![Returning percentage](https://github.com/user-attachments/assets/50eab98a-cd93-49fb-a641-784dca6cdae9)
+<img width="255" height="174" alt="Screenshot (486) 1" src="https://github.com/user-attachments/assets/e6d5f229-3d84-4990-8d7a-43617f6b4bfb" />
 
 #### 3.  Geographical Sales and Regional Performance
 - Top-Selling Regions: The West led the way with $8.08M in sales, followed by the East at $7.19M, Central at $5.87M, and the South at $4.10M.
