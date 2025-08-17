@@ -97,3 +97,7 @@ Based on patterns, consider:
 The interactive Excel dashboard summarizes all insights with filters for customization.
 
 <img width="1008" height="498" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/1f22f9ec-1c68-4e1c-a908-424241db75cb" />
+
+## Connect with Me 👋
+[LinkedIn](https://www.linkedin.com/in/eromosele-itoya/) | 
+[GitHub](https://github.com/youngdrizzy1)
